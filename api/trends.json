@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T02:55:29.390617+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2026-05-19T04:28:22.733101+08:00",
+  "total_titles_processed": 457,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 24,
       "titles": [
         {
           "title": "外交部回应特朗普涉台表态",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时28分]"
         },
         {
           "title": "特朗普连发15张图分享中国记忆",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时28分]"
         },
         {
           "title": "伊朗回应特朗普威胁：我们知道如何应对",
@@ -37,8 +37,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时28分]"
+        },
+        {
+          "title": "特朗普敲打“台独” 日本被美撤梯子",
+          "url": "https://www.toutiao.com/trending/7640786941127196678/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时28分]"
         },
         {
           "title": "据福克斯商业：美联储主席提名人沃什将于周五在白宫宣誓就职，宣誓仪式将由特朗普主持。",
@@ -50,18 +62,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时00分"
-        },
-        {
-          "title": "特朗普敲打“台独” 日本被美撤梯子",
-          "url": "https://www.toutiao.com/trending/7640786941127196678/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时55分]"
         },
         {
           "title": "报道：特朗普将于周五主持沃什宣誓就职的仪式",
@@ -80,11 +80,12 @@
           "source": "微博",
           "ranks": [
             8,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时28分]"
         },
         {
           "title": "特朗普谈入股英特尔：后悔当初只拿10%股份，“应该多要一点”",
@@ -94,8 +95,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时28分]"
         },
         {
           "title": "评论员：中俄关系不受特朗普炒G2影响",
@@ -106,8 +107,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时28分]"
+        },
+        {
+          "title": "特朗普涉台“四不”示警“台独”",
+          "url": "https://www.toutiao.com/trending/7641033902121058340/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时55分 ~ 04时28分]"
         },
         {
           "title": "美国司法部设17.76亿美元基金 补偿遭“政治针对”特朗普盟友",
@@ -121,15 +134,26 @@
           "time_info": "01时00分"
         },
         {
-          "title": "特朗普涉台“四不”示警“台独”",
-          "url": "https://www.toutiao.com/trending/7641033902121058340/",
-          "source": "今日头条",
+          "title": "美国白宫发言人凯莉：（就伊朗问题）特朗普随时可以选择所有选项。",
+          "url": "https://flash.jin10.com/detail/20260519035307747800",
+          "source": "金十数据",
           "ranks": [
-            7
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时55分"
+          "time_info": "04时28分"
+        },
+        {
+          "title": "白宫发言人Anna Kelly：Truth Social贴文凸显出美国总统特朗普的严肃态度。 伊朗不可以拥有浓缩铀。 特朗普一直都拥有所有的选项。",
+          "url": "https://wallstreetcn.com/livenews/3105582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "【特朗普称“不考虑向德黑兰作出任何让步”】在收到伊朗关于旨在结束战事的最新协议草案回复后，美国总统特朗​​普表示，他“不考虑”向德黑兰作出任何让步。特朗普还警告称，伊朗已然知晓“即将发生什么”。 特朗普表示，他对德黑兰的回复并不感到“沮丧”。他同时指出，伊朗完全清楚美国有能力给其造成更沉重的打击。特朗普说：“我可以告诉你，他们现在比以往任何时候都更渴望达成协议，因为他们知道接下来即将发生什么。”（央视）",
@@ -138,7 +162,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
         },
@@ -149,9 +173,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "美国总统特朗普：将要求司法部长和司法部对马里兰州的邮寄选票进行调查。",
+          "url": "https://flash.jin10.com/detail/20260519034638033800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "据华尔街日报：美国司法部设立近18亿美元的和解基金，此前特朗普撤回对国税局的诉讼。",
@@ -176,15 +211,48 @@
           "time_info": "01时00分"
         },
         {
+          "title": "特朗普：将推迟攻击伊朗",
+          "url": "https://wallstreetcn.com/livenews/3105571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "特朗普：取消原定于明天的对伊军事打击",
+          "url": "https://flash.jin10.com/detail/20260519031017684800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
           "title": "美国总统特朗普：伊朗知道“很快会发生什么”。 不会对伊朗做出让步。 （关于伊朗铀浓缩问题）我现在对啥（选项）也不持开放态度。 伊朗比以往任何时候都更希望达成协议。 “不久”就会达成伊朗协议。（纽约邮报）",
           "url": "https://wallstreetcn.com/livenews/3105539",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "特朗普：取消原定明天对伊朗发动袭击的计划",
+          "url": "https://wallstreetcn.com/livenews/3105568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "白宫官员：沃什周五将宣誓就任美联储主席，仪式由特朗普主持",
@@ -193,7 +261,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
         },
@@ -212,7 +280,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "美伊局势缓和，美股高开，半导体股普涨，油价回落，黄金小幅上涨",
@@ -222,8 +290,52 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时28分]"
+        },
+        {
+          "title": "中东局势降温预期提振市场，拉美股汇两市双双走高",
+          "url": "https://wallstreetcn.com/livenews/3105592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "金十图示：2026年05月18日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260519040525263800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "金十图示：2026年05月18日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260519040523142800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 理想汽车跌近10%",
+          "url": "https://flash.jin10.com/detail/20260519040054557800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "美股迎来史上最大电力并购案 SpaceX概念股盘前走高 | 今夜看点",
@@ -233,8 +345,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时28分]"
         },
         {
           "title": "金十图示：2026年05月18日（周一）美股热门股票行情一览（美股盘中）",
@@ -243,7 +355,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
         },
@@ -254,7 +366,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
         }
@@ -271,7 +383,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
         },
@@ -282,9 +394,26 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数重新跌超0.3%",
+          "url": "https://wallstreetcn.com/livenews/3105573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         }
       ]
     }
