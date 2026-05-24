@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-05-24T13:04:39.106901+08:00",
-  "total_titles_processed": 704,
+  "generated_at": "2026-05-24T16:35:07.393380+08:00",
+  "total_titles_processed": 864,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普变卦前，接到电话警告“会输给中国”",
           "url": "https://news.ifeng.com/c/8tMYpnHTqBH",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时05分 ~ 13时04分]"
+          "appearance_count": 11,
+          "time_info": "[01时05分 ~ 16时35分]"
         },
         {
           "title": "美联储新主席宣誓！特朗普呼吁“要遏制通胀，不要遏制伟大”，沃什表态要做格林斯潘",
@@ -62,8 +63,31 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时05分 ~ 13时04分]"
+          "appearance_count": 11,
+          "time_info": "[01时05分 ~ 16时35分]"
+        },
+        {
+          "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
+          "url": "https://wallstreetcn.com/articles/3772980",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时04分 ~ 16时35分]"
+        },
+        {
+          "title": "中东再传利好！特朗普：美伊协议基本谈成 霍尔木兹海峡将开放",
+          "url": "https://www.cls.cn/detail/2379936",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时04分 ~ 16时35分]"
         },
         {
           "title": "一名外交官表示：美国总统特朗普与中东领袖们的对话“是积极的”。（福克斯新闻）",
@@ -78,6 +102,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时59分 ~ 13时04分]"
+        },
+        {
+          "title": "特朗普访华让印度有点傻眼了，鲁比奥“收拾烂摊子”",
+          "url": "https://news.ifeng.com/c/8tN4z0QKtP2",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
         },
         {
           "title": "伊朗媒体驳斥特朗普关于霍尔木兹海峡“恢复正常”说法",
@@ -104,24 +139,13 @@
           "time_info": "[06时01分 ~ 08时02分]"
         },
         {
-          "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
-          "url": "https://wallstreetcn.com/articles/3772980",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时04分"
-        },
-        {
           "title": "特朗普回应白宫附近枪击案 呼吁加强白宫安保",
           "url": "https://flash.jin10.com/detail/20260524122944346800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
         },
@@ -149,17 +173,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时18分 ~ 08时02分]"
-        },
-        {
-          "title": "中东再传利好！特朗普：美伊协议基本谈成 霍尔木兹海峡将开放",
-          "url": "https://www.cls.cn/detail/2379936",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时04分"
         },
         {
           "title": "特朗普称美伊达成协议还是重启战事仍是“对半开”，又说美伊“越来越接近”达成协议",
@@ -291,6 +304,17 @@
           "time_info": "[08时02分 ~ 13时04分]"
         },
         {
+          "title": "白宫附近传出数十声枪响！特朗普当时正在白宫内，特勤局：枪手被执法人员击中，送医后身亡",
+          "url": "https://wallstreetcn.com/articles/3772979",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时04分 ~ 16时35分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗协议已基本谈妥。",
           "url": "https://flash.jin10.com/detail/20260524043232235800",
           "source": "金十数据",
@@ -302,6 +326,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时59分 ~ 08时02分]"
+        },
+        {
+          "title": "1季度做了3711笔交易！高频交易、先买后吹——这是“白宫股神”特朗普的交易策略",
+          "url": "https://wallstreetcn.com/articles/3772984",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时04分 ~ 16时35分]"
         },
         {
           "title": "Axios：地区消息称阿拉伯与穆斯林领导人敦促特朗普达成停火协议",
@@ -393,17 +429,6 @@
           "time_info": "[01时05分 ~ 03时18分]"
         },
         {
-          "title": "白宫附近传出数十声枪响！特朗普当时正在白宫内，特勤局：枪手被执法人员击中，送医后身亡",
-          "url": "https://wallstreetcn.com/articles/3772979",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时04分"
-        },
-        {
           "title": "特朗普：告诉沃什放手去做，预计他是位伟大的美联储主席，希望他完全独立",
           "url": "https://wallstreetcn.com/articles/3772950",
           "source": "华尔街见闻",
@@ -421,7 +446,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
         },
@@ -435,17 +460,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
-        },
-        {
-          "title": "1季度做了3711笔交易！高频交易、先买后吹——这是“白宫股神”特朗普的交易策略",
-          "url": "https://wallstreetcn.com/articles/3772984",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时04分"
         },
         {
           "title": "据AXIOS网站记者援引两位知情人士报道称，美国总统特朗普预计将在美东时间下午1点（北京时间次日凌晨1点）与海湾地区领导人举行电话会议，讨论伊朗局势。",
@@ -487,7 +501,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
         },
@@ -542,7 +556,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
         },
@@ -619,7 +633,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
         },
@@ -641,7 +655,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
         }
@@ -649,7 +663,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "deepseek狂降价,友商被卷哭",
@@ -657,11 +671,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时05分 ~ 13时04分]"
+          "appearance_count": 11,
+          "time_info": "[01时05分 ~ 16时35分]"
         },
         {
           "title": "永久2.5折！DeepSeek宣布V4-Pro模型API降价",
@@ -674,8 +689,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时05分 ~ 13时04分]"
+          "appearance_count": 11,
+          "time_info": "[01时05分 ~ 16时35分]"
         },
         {
           "title": "DeepSeek宣布：永久降价",
@@ -694,11 +709,12 @@
           "url": "https://www.cls.cn/detail/2379922",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时04分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时04分 ~ 16时35分]"
         },
         {
           "title": "DeepSeek宣布，DeepSeek-V4-Pro模型API价格将于2026年5月31日结束2.5折优惠活动后，正式调整为原定价的1/4。DeepSeek在社交媒体上表示，“将把折扣永久化！”根据官方介绍，百万tokens输入（缓存命中）价格将为0.025元，百万tokens输入（缓存未命中）价格为3元，百万tokens输出价格为6元。（澎湃新闻）",
@@ -716,13 +732,35 @@
           "time_info": "[01时05分 ~ 08时02分]"
         },
         {
+          "title": "DeepSeek 引入 API 并发限制，这对开发者意味着什么？",
+          "url": "https://www.zhihu.com/question/2041119709844788638",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
+        },
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
+        },
+        {
           "title": "AI进入“按量付费与算力配给”时代--Anthropic和DeepSeek告诉我们的事",
           "url": "https://wallstreetcn.com/articles/3772969",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
         }
@@ -739,11 +777,12 @@
           "ranks": [
             3,
             4,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时05分 ~ 13时04分]"
+          "appearance_count": 11,
+          "time_info": "[01时05分 ~ 16时35分]"
         },
         {
           "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
@@ -752,11 +791,12 @@
           "ranks": [
             4,
             5,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时05分 ~ 13时04分]"
+          "appearance_count": 11,
+          "time_info": "[01时05分 ~ 16时35分]"
         },
         {
           "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
@@ -790,7 +830,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
         },
