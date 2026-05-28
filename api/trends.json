@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T05:11:51.629045+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-05-29T07:22:36.196916+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
         {
           "title": "美伊新一轮互袭，全球股市承压，Snowflake美股盘前涨近35%，油价拉升4%，金价跌破4400美元关口",
@@ -30,6 +30,17 @@
           "time_info": "[02时14分 ~ 05时11分]"
         },
         {
+          "title": "美伊停火传言搅动市场，美股收创新高，半导体指数涨1%，黄金深V反转",
+          "url": "https://wallstreetcn.com/articles/3773313",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
           "title": "高盛交易员认为不受青睐的板块有望迎来轧空，助推美股下一轮上涨",
           "url": "https://wallstreetcn.com/livenews/3110886",
           "source": "华尔街见闻-快讯",
@@ -49,8 +60,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时14分 ~ 05时11分]"
+          "appearance_count": 4,
+          "time_info": "[02时14分 ~ 07时22分]"
         },
         {
           "title": "周四（5月28日），美股行业ETF涨跌各异，网络股指数ETF收涨1.63%，全球科技股指数ETF涨1.44%，医疗业ETF涨1.40%，能源业ETF、银行业ETF、金融业ETF至多跌0.29%，公用事业ETF跌1.13%。",
@@ -59,9 +70,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "美股收盘：标普、纳指连涨6日续创新高 AI软硬件牛股接力暴涨",
+          "url": "https://www.cls.cn/detail/2384768",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "MongoDB Inc.（MDB）美股盘后V形反转，目前涨14.09%。 业绩报告显示，该公司预计全年营收29.2亿-29.6亿美元，原本预计28.6亿-29亿美元。",
@@ -70,9 +92,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "戴尔美股盘后狂飙将近40%，高管直呼“AI机遇未见放缓迹象”",
+          "url": "https://wallstreetcn.com/livenews/3110974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "戴尔美股盘后涨幅扩大至35%，纳指期货目前持平。",
+          "url": "https://wallstreetcn.com/livenews/3110972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "Gap一季度净销售35亿美元，分析师预期35.2亿美元。 预计全年净销售将增长1%-2%，公司原本预计会增长2%-3%。 预计全年调整后每股收益（EPS）大约为2.30-2.40美元，公司原本预计大约2.20-2.35美元。 盖普（GPS）美股盘后跌9.8。",
@@ -81,7 +125,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -92,7 +136,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -103,9 +147,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "戴尔科技美股盘后涨幅扩大至27%。",
+          "url": "https://wallstreetcn.com/livenews/3110950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         }
       ]
     },
@@ -121,8 +176,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时14分 ~ 05时11分]"
+          "appearance_count": 4,
+          "time_info": "[02时14分 ~ 07时22分]"
+        },
+        {
+          "title": "美媒称美伊达成60天谅解备忘录延长停火、需特朗普最终批准，拟规定霍尔木兹“无限制”通航",
+          "url": "https://wallstreetcn.com/articles/3773378",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时14分 ~ 07时22分]"
         },
         {
           "title": "【美财长：美伊能否达成协议取决于“总统想要怎么做”】美国财政部长贝森特28日在白宫记者会上表示，美国与伊朗能否达成潜在的协议取决于美总统特朗普是否支持该协议。 据美国媒体当天早些时候援引美官员的话报道，美伊谈判代表已就谅解备忘录条款基本达成一致，有待特朗普最终批准。贝森特在记者会上没有直接回答多次相关提问，而是称“双方团队一直在进行往来磋商”，并强调“一切都取决于总统想要怎么做”。 贝森特说，特朗普有几条明确的“红线”，即伊朗必须交出其高浓缩铀、伊朗不能发展核武器，以及霍尔木兹海峡必须保持开放。（新华社）",
@@ -131,7 +199,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -143,20 +211,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时14分 ~ 05时11分]"
-        },
-        {
-          "title": "美媒称美伊达成60天谅解备忘录延长停火、需特朗普最终批准，拟规定霍尔木兹“无限制”通航",
-          "url": "https://wallstreetcn.com/articles/3773378",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时14分 ~ 05时11分]"
+          "appearance_count": 4,
+          "time_info": "[02时14分 ~ 07时22分]"
         },
         {
           "title": "特朗普调侃赫格塞思：他热衷战争",
@@ -166,8 +222,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时14分 ~ 05时11分]"
+          "appearance_count": 4,
+          "time_info": "[02时14分 ~ 07时22分]"
         },
         {
           "title": "美国总统特朗普声称：我们掌握所有的牌，伊朗在军事上被击败。（福克斯新闻）",
@@ -176,7 +232,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -187,7 +243,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -197,6 +253,45 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "【阿波罗推销360亿美元债务融资，旨在为Anthropic购买谷歌芯片】阿波罗和黑石正在努力吸引更多投资者加入一项约360亿美元的债务融资交易，来帮助Anthropic PBC扩建其人工智能（AI）基础设施。这笔债务将用于购买谷歌名为TPU的定制芯片，随后Anthropic将租赁这些芯片；博通公司将为该交易中最大份额的款项支付提供担保。 该融资计划旨在利用博通的信用资质，为Anthropic提供算力获取渠道。",
+          "url": "https://wallstreetcn.com/livenews/3110939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "据美国得克萨斯州车管局（DMV）网站：谷歌母公司Alphabet旗下Waymo已有577辆AVS、317辆Avride登记。 特斯拉有42辆车在美国得州被登记为无人驾驶出租车（Robotaxi）。",
+          "url": "https://wallstreetcn.com/livenews/3110968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "谷歌云：Nano Banana 2和Nano Banana Pro已正式上线。",
+          "url": "https://wallstreetcn.com/livenews/3110860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -226,7 +321,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -237,7 +332,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         }
@@ -265,7 +360,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -283,34 +378,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【阿波罗推销360亿美元债务融资，旨在为Anthropic购买谷歌芯片】阿波罗和黑石正在努力吸引更多投资者加入一项约360亿美元的债务融资交易，来帮助Anthropic PBC扩建其人工智能（AI）基础设施。这笔债务将用于购买谷歌名为TPU的定制芯片，随后Anthropic将租赁这些芯片；博通公司将为该交易中最大份额的款项支付提供担保。 该融资计划旨在利用博通的信用资质，为Anthropic提供算力获取渠道。",
-          "url": "https://wallstreetcn.com/livenews/3110939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "谷歌云：Nano Banana 2和Nano Banana Pro已正式上线。",
-          "url": "https://wallstreetcn.com/livenews/3110860",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时15分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek",
       "match_count": 1,
       "titles": [
@@ -319,11 +386,12 @@
           "url": "https://wallstreetcn.com/articles/3773316",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时14分 ~ 05时11分]"
+          "appearance_count": 4,
+          "time_info": "[02时14分 ~ 07时22分]"
         }
       ]
     }
