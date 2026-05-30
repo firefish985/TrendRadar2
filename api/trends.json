@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T05:04:39.877461+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-05-31T07:03:03.851180+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
@@ -19,17 +19,6 @@
           "time_info": "[01时13分 ~ 01时14分]"
         },
         {
-          "title": "美国总统特朗普：将不在“自由250”音乐会上演出，但会在华盛顿特区同一地点的竞选集会上发表演讲。",
-          "url": "https://flash.jin10.com/detail/20260531001517348800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
           "title": "美伊局势迷雾重重：特朗普被曝推迟作“最终决定” 双方仍各说各话",
           "url": "https://www.cls.cn/detail/2385988",
           "source": "财联社热门",
@@ -37,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 05时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 07时03分]"
         },
         {
           "title": "美国法官裁定将特朗普名字从肯尼迪中心移除",
@@ -48,8 +37,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 05时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 07时03分]"
         },
         {
           "title": "一图看懂｜“不听话就炸掉”，特朗普威胁/攻击过哪些国家？",
@@ -60,8 +49,31 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 05时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 07时03分]"
+        },
+        {
+          "title": "特朗普就结束伊朗战事提出条件，伊朗必须同意永远不拥有核武器，霍尔木兹海峡必须立即开放，伊方会接受吗？",
+          "url": "https://www.zhihu.com/question/2043956365022814533",
+          "source": "知乎",
+          "ranks": [
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时13分 ~ 07时03分]"
+        },
+        {
+          "title": "美国总统特朗普：将不在“自由250”音乐会上演出，但会在华盛顿特区同一地点的竞选集会上发表演讲。",
+          "url": "https://flash.jin10.com/detail/20260531001517348800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
         },
         {
           "title": "多名艺人退演“自由 250”音乐会 特朗普考虑改为集会和演讲",
@@ -74,18 +86,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时14分 ~ 03时24分]"
-        },
-        {
-          "title": "特朗普就结束伊朗战事提出条件，伊朗必须同意永远不拥有核武器，霍尔木兹海峡必须立即开放，伊方会接受吗？",
-          "url": "https://www.zhihu.com/question/2043956365022814533",
-          "source": "知乎",
-          "ranks": [
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 03时24分]"
         },
         {
           "title": "白宫公布特朗普年度体检报告：增重超6公斤，腿部肿胀已经减轻",
@@ -125,19 +125,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 05时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 07时03分]"
         },
         {
           "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
           "url": "https://www.cls.cn/detail/2385964",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 05时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 07时03分]"
         }
       ]
     },
@@ -150,11 +151,12 @@
           "url": "https://www.zhihu.com/question/2040472846393161206",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时23分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[03时23分 ~ 07时03分]"
         }
       ]
     },
@@ -189,8 +191,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 05时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 07时03分]"
         }
       ]
     }
