@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T08:22:03.141294+08:00",
-  "total_titles_processed": 655,
+  "generated_at": "2026-06-17T14:19:10.656176+08:00",
+  "total_titles_processed": 887,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普：感谢中俄帮忙",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时00分 ~ 08时22分]"
+        },
+        {
+          "title": "特朗普：关我们啥事？就是卖卖武器",
+          "url": "https://news.ifeng.com/c/8u1SdELcNgi",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时18分 ~ 14时19分]"
         },
         {
           "title": "特朗普和马克龙为何为一瓶红酒较劲",
@@ -84,8 +95,19 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时21分 ~ 14时19分]"
+        },
+        {
+          "title": "特朗普称霍尔木兹海峡周五全面重开、或近期恢复俄油制裁，伊朗称协议要求以从黎撤军",
+          "url": "https://wallstreetcn.com/articles/3774815",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时21分 ~ 08时22分]"
+          "time_info": "[14时18分 ~ 14时19分]"
         },
         {
           "title": "特朗普：美方或恢复对俄石油制裁",
@@ -138,7 +160,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时22分"
         },
@@ -149,7 +171,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时22分"
         },
@@ -182,6 +204,30 @@
       "match_count": 12,
       "titles": [
         {
+          "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
+          "url": "https://wallstreetcn.com/articles/3774774",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时17分 ~ 14时19分]"
+        },
+        {
+          "title": "【早报】油价大跌；美股芯片股集体下挫，道指创新高；法国队取得开门红",
+          "url": "https://www.cls.cn/detail/2401752",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时21分 ~ 14时19分]"
+        },
+        {
           "title": "美伊达成协议，半导体股领涨美股，道指新高，油价重挫5%，黄金三连涨",
           "url": "https://wallstreetcn.com/articles/3774633",
           "source": "华尔街见闻",
@@ -191,6 +237,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时00分 ~ 06时17分]"
+        },
+        {
+          "title": "美股收盘：资金轮动道指创新高 芯片股回调、工业板块走强",
+          "url": "https://www.cls.cn/detail/2401731",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时21分 ~ 14时19分]"
         },
         {
           "title": "美股期指横盘整理 SpaceX盘前再度大涨 市值逼近亚马逊 | 今夜看点",
@@ -204,40 +262,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时00分 ~ 08时22分]"
-        },
-        {
-          "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
-          "url": "https://wallstreetcn.com/articles/3774774",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时17分 ~ 08时22分]"
-        },
-        {
-          "title": "【早报】油价大跌；美股芯片股集体下挫，道指创新高；法国队取得开门红",
-          "url": "https://www.cls.cn/detail/2401752",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时21分 ~ 08时22分]"
-        },
-        {
-          "title": "美股收盘：资金轮动道指创新高 芯片股回调、工业板块走强",
-          "url": "https://www.cls.cn/detail/2401731",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时21分 ~ 08时22分]"
         },
         {
           "title": "如何评价经济诺奖得主称马斯克是庞氏骗局， SpaceX 上市让普通投资者被迫买单，会对美股带来什么影响？",
@@ -322,7 +346,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "为什么DeepSeek是AI泡沫斩杀线",
@@ -339,6 +363,17 @@
           "time_info": "[00时00分 ~ 08时22分]"
         },
         {
+          "title": "Redis 之父为 DeepSeek 抱不平，美国 AI 圈为何再为「蒸馏」开吵？",
+          "url": "https://www.zhihu.com/question/2050271442697188542",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时18分 ~ 14时19分]"
+        },
+        {
           "title": "曝DeepSeek首轮融资梁文锋出资200亿",
           "url": "https://www.toutiao.com/trending/7651579346738855979/",
           "source": "今日头条",
@@ -351,6 +386,17 @@
           "time_info": "[03时48分 ~ 08时22分]"
         },
         {
+          "title": "DeepSeek 完成 500 亿融资，估值超 3300 亿，如何解读背后的估值逻辑？将对 AI 领域产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2050261467174101567",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时18分 ~ 14时19分]"
+        },
+        {
           "title": "DeepSeek首轮融资梁文锋出资200亿",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E9%A6%96%E8%BD%AE%E8%9E%8D%E8%B5%84%E6%A2%81%E6%96%87%E9%94%8B%E5%87%BA%E8%B5%84200%E4%BA%BF%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -360,13 +406,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时00分 ~ 00时02分]"
+        },
+        {
+          "title": "DeepSeek为什么此时融资",
+          "url": "https://www.toutiao.com/trending/7652171876302605843/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时18分 ~ 14时19分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "SpaceX期权首个交易日碾压纪录 ChatGPT市场份额跌破50% | 环球市场",
+          "url": "https://www.cls.cn/detail/2401773",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时18分 ~ 14时19分]"
+        },
         {
           "title": "据The Information：OpenAI表示，已向特朗普政府表明，外国人才对美国人工智能发展至关重要。",
           "url": "https://flash.jin10.com/detail/20260617051721170800",
@@ -385,7 +453,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时22分"
         },
@@ -396,7 +464,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时22分"
         }
@@ -404,7 +472,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "汇丰银行与谷歌云宣布达成人工智能银行合作伙伴关系。",
@@ -413,9 +481,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时22分"
+        },
+        {
+          "title": "XREAL联手谷歌发布空间计算眼镜，深度集成Gemini",
+          "url": "https://wallstreetcn.com/livenews/3120751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "Kalshi因向谷歌、LinkedIn披露用户活动而被起诉。",
