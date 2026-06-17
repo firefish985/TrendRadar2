@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T00:45:13.861493+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-18T02:24:56.781637+08:00",
+  "total_titles_processed": 407,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 58,
       "titles": [
         {
           "title": "美国总统特朗普感谢巴基斯坦和卡塔尔在达成协议方面的协助。",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
         },
@@ -25,20 +25,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
         },
         {
-          "title": "美国总统特朗普：关于移除伊朗浓缩铀库存的谈判将立即启动。",
-          "url": "https://wallstreetcn.com/livenews/3121146",
+          "title": "摩根资产管理Michele：经济形势不适合降息，沃什注定让特朗普失望",
+          "url": "https://wallstreetcn.com/livenews/3121178",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时45分"
+          "time_info": "02时24分"
         },
         {
           "title": "美国总统特朗普：与海湾国家并行努力。",
@@ -47,7 +47,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
         },
@@ -69,7 +69,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
         },
@@ -80,7 +80,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
         },
@@ -91,9 +91,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "美国总统特朗普：关于移除伊朗浓缩铀库存的谈判将立即启动。",
+          "url": "https://wallstreetcn.com/livenews/3121146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 02时24分]"
         },
         {
           "title": "特朗普称霍尔木兹海峡周五全面重开、或近期恢复俄油制裁，伊朗称协议要求以从黎撤军",
@@ -103,8 +115,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时24分]"
         },
         {
           "title": "“马克龙想借中国，来跟特朗普讨价还价”",
@@ -114,8 +126,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时24分]"
         },
         {
           "title": "特朗普罕见批评以色列：不能每次为找一个人，炸掉整栋楼",
@@ -125,8 +137,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时24分]"
         },
         {
           "title": "特朗普又炮轰内塔尼亚胡：没我，就没以色列",
@@ -136,8 +148,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时24分]"
         },
         {
           "title": "“特朗普这么干，又给中国打广告”",
@@ -147,19 +159,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时24分]"
         },
         {
           "title": "特朗普：谅解备忘录不是最终协议 若不满意会重新开火",
           "url": "https://www.cls.cn/detail/2402714",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时24分]"
         },
         {
           "title": "特朗普：如果我不满意，将恢复向伊朗投掷炸弹",
@@ -169,8 +182,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时24分]"
         },
         {
           "title": "阿联酋总统太小声？特朗普当面调侃：像他那么有钱，确实不用大声",
@@ -180,8 +193,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时24分]"
         },
         {
           "title": "美国总统特朗普：霍尔木兹海峡的海上交通显著增加。海峡的能源流动将在未来几天恢复。",
@@ -190,7 +203,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
         },
@@ -201,9 +214,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "巴西总统卢拉：我预计美国总统特朗普不会干预巴西选举。",
+          "url": "https://flash.jin10.com/detail/20260618014915001800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
+        },
+        {
+          "title": "特朗普：我喜欢“伊朗协议不奏效就怪罪万斯”这个想法",
+          "url": "https://wallstreetcn.com/livenews/3121174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
         },
         {
           "title": "美国总统特朗普：在资金和投资方面，我们不会给伊朗任何东西。",
@@ -212,7 +247,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
         },
@@ -223,7 +258,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
         },
@@ -234,9 +269,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "巴西总统卢拉：美国总统特朗普说得太多，倾听得太少。",
+          "url": "https://flash.jin10.com/detail/20260618014754366800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
         },
         {
           "title": "美国总统特朗普：伊朗的行为非常得体。",
@@ -245,7 +291,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
         },
@@ -256,7 +302,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
         },
@@ -267,9 +313,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "提醒：美国总统特朗普在七国集团（G7）峰会期间的新闻发布会结束。",
+          "url": "https://wallstreetcn.com/livenews/3121170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
         },
         {
           "title": "美国总统特朗普：以色列在处理黎巴嫩真主党方面可以做得更好。",
@@ -278,7 +335,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
         },
@@ -289,7 +346,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
         },
@@ -300,9 +357,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "巴西总统卢拉：谈判结束后，我不介意与美国总统特朗普安排新会议。",
+          "url": "https://flash.jin10.com/detail/20260618014416355800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
         },
         {
           "title": "美国总统特朗普重申与伊朗的协议将让霍尔木兹海峡重新开放。",
@@ -311,7 +379,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
         },
@@ -322,9 +390,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "巴西总统卢拉：我现在没有理由与美国总统特朗普交谈，我们正处于谈判中。",
+          "url": "https://flash.jin10.com/detail/20260618014411364800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
         },
         {
           "title": "美国总统特朗普：与伊朗达成的协议将于明天或后天签署。可能在周五（签署）。",
@@ -333,7 +412,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
         },
@@ -344,9 +423,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "摩根大通全球固收负责人米歇尔：美联储主席沃什注定会让特朗普失望。",
+          "url": "https://flash.jin10.com/detail/20260618014345044800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
         },
         {
           "title": "美国总统特朗普：如果伊朗协议在60天内未达成，将恢复轰炸。不想再次轰炸伊朗，但可能不得不这样做。",
@@ -355,9 +445,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "美国总统特朗普：正在调查“美国袭击伊朗学校”一事。",
+          "url": "https://wallstreetcn.com/livenews/3121161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
         },
         {
           "title": "美国总统特朗普：会将谅解备忘录公布出来，以供你们阅读。",
@@ -366,7 +467,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
         },
@@ -377,7 +478,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
         },
@@ -388,9 +489,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "特朗普：如果不将资金退还给伊朗，那将对美元不利",
+          "url": "https://wallstreetcn.com/livenews/3121158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
         },
         {
           "title": "美国总统特朗普：内塔尼亚胡和我就黎巴嫩问题存在分歧。",
@@ -399,9 +511,31 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "巴西总统卢拉：我并没有要求在G7峰会上与美国总统特朗普进行双边会晤。",
+          "url": "https://flash.jin10.com/detail/20260618014034015800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
+        },
+        {
+          "title": "特朗普：美伊谅解备忘录可能在18日或19日签署",
+          "url": "https://wallstreetcn.com/livenews/3121156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
         },
         {
           "title": "美国总统特朗普：以色列总理内塔尼亚胡有时会显得有些激动。",
@@ -410,7 +544,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
         },
@@ -421,9 +555,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "美国总统特朗普：围绕经济、AI举行了一些不错的会议。",
+          "url": "https://wallstreetcn.com/livenews/3121153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
         },
         {
           "title": "美国总统特朗普赞扬法国总统马克龙。",
@@ -432,9 +577,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "美国总统特朗普：上周日与俄罗斯总统普京通话。",
+          "url": "https://wallstreetcn.com/livenews/3121152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
         },
         {
           "title": "美国总统特朗普：股市比任何人都看得明白。",
@@ -443,9 +599,53 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "美国总统特朗普：希望获得扩大版“亚伯拉罕协议”。",
+          "url": "https://wallstreetcn.com/livenews/3121151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
+        },
+        {
+          "title": "美国总统特朗普：将不得不为黎巴嫩付出努力。",
+          "url": "https://wallstreetcn.com/livenews/3121150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
+        },
+        {
+          "title": "邵永灵：泽连斯基和欧洲向特朗普低头",
+          "url": "https://www.toutiao.com/trending/7652352370063445558/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
+        },
+        {
+          "title": "美国总统特朗普：试图让哈马斯解除武装。",
+          "url": "https://wallstreetcn.com/livenews/3121149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
         }
       ]
     },
@@ -458,11 +658,12 @@
           "url": "https://wallstreetcn.com/articles/3774774",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时24分]"
         },
         {
           "title": "市场静待沃什首秀，美股指走高，半导体股多数上涨，SpaceX跌幅扩大至4%，油价涨1%",
@@ -472,8 +673,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时24分]"
         },
         {
           "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
@@ -483,8 +684,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时24分]"
         },
         {
           "title": "摩根资产管理：AI热潮料推动美股续涨，下半年宜持有高风险资产",
@@ -493,7 +694,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
         }
@@ -501,7 +702,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "台积电产能告急！三星代工需求火热：谷歌、英伟达、AMD都来了…",
@@ -511,8 +712,47 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时24分]"
+        },
+        {
+          "title": "OpenAI的CEO Altman、谷歌公司高管Hassabis、Anthropic的CEO Amodei、Meta高管Wang、Mistral AI高管Mensch、Cohere高管Gomez、Salesforce高管Benioff出席（美国）AI会议。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3121165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美联储决议声明发布前，标普500指数大致持平，道指涨0.3%，纳指涨0.2%，半导体指数涨3.6%，银行指数涨1.3%。 美元指数涨0.1%，美元兑日元跌0.16%，欧元兑美元跌0.1%，英镑兑美元跌0.2%。 现货黄金涨1.1%，白银涨1.8%。 美国10年期国债收益率跌1.38个基点，报4.4256%，两年期美债收益率涨幅收窄至不足0.5个基点。",
+          "url": "https://wallstreetcn.com/livenews/3121179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.35%，暂报2413.24点，北京时间10:29刷新期内高位至2458.69点，随后持续下挫，20:30刷新日低至2350.11点。 MarketVectorTM数字资产100中盘指数涨1.65%，报2781.37点，00:29曾达到2809.63点。 MarketVector数字资产100指数涨0.16%，报13086.58点。 目前，Solana跌0.17%，狗狗币跌0.37%，XRP跌0.72%。 比特币涨0.35%，暂报65824.80美元；以太坊跌1.42%，暂报1769.49美元。",
+          "url": "https://wallstreetcn.com/livenews/3121162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
         }
       ]
     }
