@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T14:07:50.810910+08:00",
-  "total_titles_processed": 734,
+  "generated_at": "2026-06-21T18:34:11.017050+08:00",
+  "total_titles_processed": 924,
   "failed_sources": [],
   "trends": [
     {
@@ -88,6 +88,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
+        },
+        {
+          "title": "事关霍尔木兹！特朗普最新发声 美伊技术层面谈判今日举行",
+          "url": "https://www.cls.cn/detail/2404722",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时07分 ~ 18时34分]"
         },
         {
           "title": "特朗普：霍尔木兹海峡停火期间及结束后都免征通行费 若协议未达成将由美方收费",
@@ -185,17 +197,6 @@
           "time_info": "08时13分"
         },
         {
-          "title": "事关霍尔木兹！特朗普最新发声 美伊技术层面谈判今日举行",
-          "url": "https://www.cls.cn/detail/2404722",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时07分"
-        },
-        {
           "title": "分析：特朗普对经济风险的担忧削弱了美国谈判筹码",
           "url": "https://flash.jin10.com/detail/20260621004843090800",
           "source": "金十数据",
@@ -213,7 +214,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         },
@@ -256,8 +257,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 14时07分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 18时34分]"
         },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
@@ -311,11 +312,12 @@
           "url": "https://wallstreetcn.com/articles/3775117",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时07分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时07分 ~ 18时34分]"
         },
         {
           "title": "OpenAI被查、Anthropic被限，AI炒作漏算了什么？",
@@ -324,7 +326,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         }
