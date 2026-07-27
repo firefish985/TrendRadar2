@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T16:32:56.503051+08:00",
-  "total_titles_processed": 987,
+  "generated_at": "2026-07-27T20:26:18.534551+08:00",
+  "total_titles_processed": 1192,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -47,11 +47,12 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 16时32分]"
+          "appearance_count": 3,
+          "time_info": "[12时38分 ~ 20时26分]"
         },
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -71,9 +72,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "3个选项，特朗普举棋未定",
+          "url": "https://news.ifeng.com/c/8v6CmboAaqd",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间",
@@ -210,6 +222,17 @@
           "time_info": "06时01分"
         },
         {
+          "title": "克里姆林宫发言人佩斯科夫：普京即将举行的会谈不会涉及特朗普，但仍具有重要意义。",
+          "url": "https://flash.jin10.com/detail/20260727194347581800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
           "title": "美伊刚降温，内塔尼亚胡却赴美施压特朗普：别让伊朗核计划“死灰复燃”",
           "url": "https://flash.jin10.com/detail/20260727073444945800",
           "source": "金十数据",
@@ -254,6 +277,28 @@
           "time_info": "06时01分"
         },
         {
+          "title": "据以色列第12频道援引消息人士称，内塔尼亚胡将请求特朗普不要向土耳其出售武器系统和F-35战斗机。",
+          "url": "https://flash.jin10.com/detail/20260727194215895800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "据以色列第12频道援引消息来人士称，内塔尼亚胡将向特朗普提供有关伊朗迈向拥有核武器进程的最新情报信息。",
+          "url": "https://flash.jin10.com/detail/20260727194108715800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
           "title": "伊朗和美国之间很快达成新停火协议的机会似乎再次上升，因有报道称美国总统特朗普决定暂停近期对伊朗南部的打击行动。在预测市场Polymarket上，交易员认为在2026年8月31日前实现停火的概率已达到75%。",
           "url": "https://flash.jin10.com/detail/20260727065319315800",
           "source": "金十数据",
@@ -274,12 +319,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：在与特朗普的会议中，将讨论议程上的所有问题，其中伊朗是重中之重。我们的目标明确——确保以色列的安全，增强以色列实力，扩大周围的和平圈。",
+          "url": "https://flash.jin10.com/detail/20260727192920582800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "OpenAI模型失控始末曝光，Hugging Face“索赔”1亿美元算力",
@@ -310,11 +366,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 16时32分]"
+          "appearance_count": 3,
+          "time_info": "[12时38分 ~ 20时26分]"
         },
         {
           "title": "OpenAI失控AI内幕曝光：越狱一周才被发现 还有智能体曾留下“逃脱秘籍”",
@@ -382,6 +439,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        },
+        {
+          "title": "OpenAI宣布在爱尔兰扩张，预计新增250个新岗位",
+          "url": "https://flash.jin10.com/detail/20260727192930998800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         }
       ]
     },
@@ -419,7 +487,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -453,7 +521,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -464,7 +532,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         }
@@ -484,6 +552,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Claude Opus 5 系统提示词泄漏，膨胀到 20 万字符的系统提示词，你怎么看？",
+          "url": "https://www.zhihu.com/question/2064349598202779354",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         }
       ]
     }
