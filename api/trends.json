@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T17:40:36.896143+08:00",
-  "total_titles_processed": 1164,
+  "generated_at": "2026-08-08T18:36:25.275356+08:00",
+  "total_titles_processed": 1232,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "中期选举临近，特朗普连续21场败诉",
@@ -20,21 +20,6 @@
           "time_info": "[09时44分 ~ 17时40分]"
         },
         {
-          "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33739173",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16,
-            17,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[04时34分 ~ 17时40分]"
-        },
-        {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
           "url": "https://www.cls.cn/detail/2449039",
           "source": "财联社热门",
@@ -46,8 +31,23 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时59分 ~ 17时40分]"
+          "appearance_count": 8,
+          "time_info": "[12时59分 ~ 18时36分]"
+        },
+        {
+          "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33739173",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            17,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[04时34分 ~ 18时36分]"
         },
         {
           "title": "特朗普：隔着大洋呢，我们没掺和这事",
@@ -229,6 +229,17 @@
           "time_info": "[05时42分 ~ 09时44分]"
         },
         {
+          "title": "黄金期货价格突破4400美元关口 特朗普继续推进罢免美联储理事库克 | 环球市场",
+          "url": "https://www.cls.cn/detail/2448987",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时56分 ~ 18时36分]"
+        },
+        {
           "title": "特朗普谈降息：希望利率下调，但这不完全取决于沃什一人",
           "url": "https://wallstreetcn.com/articles/3778955",
           "source": "华尔街见闻",
@@ -240,15 +251,16 @@
           "time_info": "[11时27分 ~ 12时59分]"
         },
         {
-          "title": "黄金期货价格突破4400美元关口 特朗普继续推进罢免美联储理事库克 | 环球市场",
-          "url": "https://www.cls.cn/detail/2448987",
-          "source": "财联社热门",
+          "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
+          "url": "https://v.ifeng.com/c/8vONreNLVHw",
+          "source": "凤凰网",
           "ranks": [
-            13
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时56分 ~ 17时40分]"
+          "appearance_count": 2,
+          "time_info": "[17时40分 ~ 18时36分]"
         },
         {
           "title": "据ABC新闻：特朗普在最高法院遭遇挫折后，仍继续推进解雇美联储理事丽莎·库克的尝试。",
@@ -323,15 +335,15 @@
           "time_info": "[04时35分 ~ 04时43分]"
         },
         {
-          "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
-          "url": "https://v.ifeng.com/c/8vONreNLVHw",
+          "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
+          "url": "https://news.ifeng.com/c/8vQSbJyuyMk",
           "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时40分"
+          "time_info": "18时36分"
         },
         {
           "title": "黎巴嫩总统：我与特朗普会面期间，在媒体之外进行的交流是积极的。特朗普对黎巴嫩的处境表示理解，并打开了许多大门。与特朗普会晤的成果已体现为解除对美国航空公司运营飞往黎巴嫩航线的限制。",
@@ -437,8 +449,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时44分 ~ 17时40分]"
+          "appearance_count": 11,
+          "time_info": "[09时44分 ~ 18时36分]"
         },
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -474,8 +486,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时59分 ~ 17时40分]"
+          "appearance_count": 22,
+          "time_info": "[00时59分 ~ 18时36分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -489,8 +501,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时38分 ~ 17时40分]"
+          "appearance_count": 13,
+          "time_info": "[06时38分 ~ 18时36分]"
         },
         {
           "title": "美股存储板块集体大跌",
@@ -586,11 +598,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            9
+            9,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时43分 ~ 17时40分]"
+          "appearance_count": 3,
+          "time_info": "[16时43分 ~ 18时36分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高",
@@ -763,8 +776,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时44分 ~ 17时40分]"
+          "appearance_count": 11,
+          "time_info": "[09时44分 ~ 18时36分]"
         },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
@@ -778,8 +791,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[04时34分 ~ 17时40分]"
+          "appearance_count": 18,
+          "time_info": "[04时34分 ~ 18时36分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -805,7 +818,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         }
@@ -830,8 +843,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时59分 ~ 17时40分]"
+          "appearance_count": 22,
+          "time_info": "[00时59分 ~ 18时36分]"
         }
       ]
     },
