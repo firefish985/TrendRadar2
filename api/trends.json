@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T10:05:20.368602+08:00",
-  "total_titles_processed": 801,
+  "generated_at": "2026-08-13T12:52:59.919340+08:00",
+  "total_titles_processed": 978,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "越权制裁国际刑事法院，特朗普被美国多家人权组织共同起诉",
@@ -191,6 +191,17 @@
           "time_info": "[05时48分 ~ 06时43分]"
         },
         {
+          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
           "title": "白宫新闻秘书辞职，特朗普中期选举前痛失“最锋利的话筒”",
           "url": "https://flash.jin10.com/detail/20260813064543456800",
           "source": "金十数据",
@@ -304,7 +315,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "DeepSeek V4 Pro正式版上线",
@@ -330,6 +341,17 @@
           "time_info": "[01时59分 ~ 06时43分]"
         },
         {
+          "title": "DeepSeek V4 Pro 正式版发布，如何评价该模型？",
+          "url": "https://www.zhihu.com/question/2071014727606703118",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时43分 ~ 12时52分]"
+        },
+        {
           "title": "DeepSeek发布V4Pro正式版",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%8F%91%E5%B8%83V4Pro%E6%AD%A3%E5%BC%8F%E7%89%88%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -345,26 +367,15 @@
           "time_info": "[01时59分 ~ 07时43分]"
         },
         {
-          "title": "DeepSeek V4 Pro 正式版发布，如何评价该模型？",
-          "url": "https://www.zhihu.com/question/2071014727606703118",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时43分 ~ 10时05分]"
-        },
-        {
           "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
           "url": "https://www.cls.cn/detail/2452920",
           "source": "财联社热门",
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 12时52分]"
         },
         {
           "title": "DeepSeek重磅更新 V4Pro正式版上线",
@@ -404,6 +415,18 @@
           "time_info": "[00时05分 ~ 03时11分]"
         },
         {
+          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
+          "url": "https://wallstreetcn.com/articles/3779306",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 12时52分]"
+        },
+        {
           "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
           "url": "https://flash.jin10.com/detail/20260813050715033800",
           "source": "金十数据",
@@ -433,22 +456,12 @@
           "url": "https://www.zhihu.com/question/2071019389479023642",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
-          "url": "https://wallstreetcn.com/articles/3779306",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 12时52分]"
         },
         {
           "title": "DeepSeek最新版本藏了一个大招",
@@ -457,9 +470,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
+        },
+        {
+          "title": "DeepSeek发布V4Pro正式版",
+          "url": "https://www.douyin.com/hot/2607669",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
         }
       ]
     },
@@ -468,18 +492,6 @@
       "match_count": 11,
       "titles": [
         {
-          "title": "美通胀温和缓解加息压力，美股高开，光通信、存储芯片股领涨，Nebius涨15%，油价震荡",
-          "url": "https://wallstreetcn.com/articles/3779257",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 05时48分]"
-        },
-        {
           "title": "美股收盘：CPI如期放缓削弱加息预期 存储、光通信、新云板块齐飞",
           "url": "https://www.cls.cn/detail/2452897",
           "source": "财联社热门",
@@ -487,8 +499,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时43分 ~ 10时05分]"
+          "appearance_count": 3,
+          "time_info": "[07时43分 ~ 12时52分]"
         },
         {
           "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
@@ -500,8 +512,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时43分 ~ 10时05分]"
+          "appearance_count": 4,
+          "time_info": "[06时43分 ~ 12时52分]"
+        },
+        {
+          "title": "美通胀温和缓解加息压力，美股高开，光通信、存储芯片股领涨，Nebius涨15%，油价震荡",
+          "url": "https://wallstreetcn.com/articles/3779257",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 05时48分]"
         },
         {
           "title": "金十图示：2026年08月12日（周三）美股热门股票行情一览（美股收盘）",
@@ -603,7 +627,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "谷歌高管据悉上周召开“全员”会议，以回应员工关切，解决AI部门重组问题。谷歌联合创始人谢尔盖·布林近几个月来敦促员工专注于将Gemini模型重新带回人工智能前沿。",
@@ -650,8 +674,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时43分 ~ 10时05分]"
+          "appearance_count": 4,
+          "time_info": "[06时43分 ~ 12时52分]"
         },
         {
           "title": "谷歌：Pixel 11 Pro Fold今日开启预购，将于8月20日上市开售。",
@@ -686,6 +710,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        },
+        {
+          "title": "谷歌首席科学家离职现场遭围堵",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E9%A6%96%E5%B8%AD%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%A6%BB%E8%81%8C%E7%8E%B0%E5%9C%BA%E9%81%AD%E5%9B%B4%E5%A0%B5",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
         }
       ]
     },
