@@ -1,35 +1,22 @@
 {
-  "generated_at": "2026-08-18T14:45:02.141707+08:00",
-  "total_titles_processed": 793,
+  "generated_at": "2026-08-19T02:55:02.105728+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 9,
       "titles": [
         {
-          "title": "特朗普要求伊朗举白旗投降",
-          "url": "https://news.ifeng.com/c/8vfb7aoIQAb",
+          "title": "特朗普发布地图，将霍尔木兹海峡划为“美国新领土”",
+          "url": "https://news.ifeng.com/c/8vhHYZ5eOge",
           "source": "凤凰网",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 09时39分]"
-        },
-        {
-          "title": "特朗普威胁：若阿曼阻碍美伊和平协议 将对其发动轰炸",
-          "url": "https://www.cls.cn/detail/2456389",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 09时39分]"
+          "appearance_count": 2,
+          "time_info": "[02时54分 ~ 02时55分]"
         },
         {
           "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
@@ -39,384 +26,218 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时38分 ~ 14时45分]"
+          "appearance_count": 2,
+          "time_info": "[02时54分 ~ 02时55分]"
         },
         {
-          "title": "特朗普最新支持率公布",
-          "url": "https://news.ifeng.com/c/8vgNsInzDsl",
+          "title": "罕见公开说“不”！内塔尼亚胡为何硬刚特朗普？",
+          "url": "https://news.ifeng.com/c/8vhArHdu44B",
           "source": "凤凰网",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时44分 ~ 14时45分]"
+          "time_info": "[02时54分 ~ 02时55分]"
         },
         {
-          "title": "特朗普向朝韩发出强烈信号，信息量很大",
-          "url": "https://news.ifeng.com/c/8vehnvg4TOJ",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 07时24分]"
-        },
-        {
-          "title": "阿曼正和伊朗斡旋，却收到特朗普的轰炸威胁，咋回事？",
-          "url": "https://news.ifeng.com/c/8vgfXfy9cpA",
+          "title": "特朗普的“相扑手”，会走上白宫讲台吗？",
+          "url": "https://news.ifeng.com/c/8vhELdiMK92",
           "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时44分 ~ 14时45分]"
+          "time_info": "[02时54分 ~ 02时55分]"
         },
         {
-          "title": "美以盟友关系现裂痕 特朗普称以色列应停止对加沙的袭击",
-          "url": "https://flash.jin10.com/detail/20260818002159411800",
+          "title": "知情人士透露，美国据称降低对周二达成美加贸易协议的预期。美国总统特朗普和加拿大总理卡尼预计将于当地时间周二再次通话。",
+          "url": "https://flash.jin10.com/detail/20260819024204722800",
           "source": "金十数据",
           "ranks": [
-            1
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时29分"
+          "time_info": "02时55分"
         },
         {
-          "title": "特朗普：金正恩已回应其对话请求",
-          "url": "https://news.ifeng.com/c/8vgIS66EJvG",
-          "source": "凤凰网",
+          "title": "特朗普反复要求CNN记者别吵：“假新闻，你闭嘴”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33803619",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时38分 ~ 14时45分]"
-        },
-        {
-          "title": "美国议员：特朗普把欺骗到底当美德",
-          "url": "https://www.toutiao.com/trending/7674814398469947401/",
-          "source": "今日头条",
-          "ranks": [
-            6
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时44分 ~ 14时45分]"
+          "time_info": "[02时54分 ~ 02时55分]"
         },
         {
-          "title": "60天期限已到，特朗普威胁阿曼，伊朗称将“全面进攻”",
-          "url": "https://news.ifeng.com/c/8vgLjEXesPE",
-          "source": "凤凰网",
+          "title": "特朗普威胁阿曼",
+          "url": "https://www.douyin.com/hot/2613763",
+          "source": "抖音",
           "ranks": [
-            6
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时38分 ~ 09时39分]"
+          "time_info": "[02时54分 ~ 02时55分]"
         },
         {
-          "title": "美国总统特朗普周二日程一览",
-          "url": "https://flash.jin10.com/detail/20260818092612736800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时39分"
-        },
-        {
-          "title": "特朗普将宣布霍尔木兹为美国领土",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%AE%A3%E5%B8%83%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E4%B8%BA%E7%BE%8E%E5%9B%BD%E9%A2%86%E5%9C%9F%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        },
-        {
-          "title": "特朗普拒绝延长美伊停火协议，警告阿曼别“挡路”，否则将遭轰炸",
-          "url": "https://flash.jin10.com/detail/20260818063446465800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        },
-        {
-          "title": "民调显示特朗普支持率创第二任期内新低",
-          "url": "https://flash.jin10.com/detail/20260818062651085800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        },
-        {
-          "title": "民调显示特朗普支持率创第二任期内新低",
-          "url": "https://wallstreetcn.com/livenews/3150715",
+          "title": "预测市场的老板们不会参加美国总统特朗普的白宫会议。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3151255",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时24分"
+          "time_info": "02时55分"
         },
         {
-          "title": "土耳其总统埃尔多安告诉美国总统特朗普，以色列正在加沙袭击巴勒斯坦人，而和平计划第二阶段本应在此时生效。",
-          "url": "https://flash.jin10.com/detail/20260818053902807800",
+          "title": "哈马斯：以色列最近在加沙的袭击表明，内塔尼亚胡试图“蓄意破坏谈判并削弱”区域和国际为推进特朗普计划所做的努力。",
+          "url": "https://flash.jin10.com/detail/20260819021122531800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "OpenAI在Hugging Face数据泄露事件后调整人工智能安全机制。",
+          "url": "https://wallstreetcn.com/livenews/3151272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        },
+        {
+          "title": "OpenAI强化AI安全防护，严防模型“失控”",
+          "url": "https://flash.jin10.com/detail/20260819022528067800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        },
+        {
+          "title": "OpenAI：最大规模计划中的前沿强化学习训练仍处于暂停状态，等待完成安全验证。",
+          "url": "https://flash.jin10.com/detail/20260819021358227800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        },
+        {
+          "title": "OpenAI：暂时放缓规模扩张步伐，包括暂停对最新部署模型进行强化学习训练，为期两周。",
+          "url": "https://flash.jin10.com/detail/20260819021328389800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        },
+        {
+          "title": "OpenAI：在Hugging Face事件发生后，我们暂停了研究集群中可能执行代码的前沿模型推理。",
+          "url": "https://flash.jin10.com/detail/20260819021019515800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时24分"
+          "time_info": "02时55分"
         },
         {
-          "title": "土耳其总统埃尔多安对美国总统特朗普表示，继续与伊朗对话以充分利用外交途径十分重要，土耳其已准备好为此作出贡献。",
-          "url": "https://flash.jin10.com/detail/20260818053738229800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        },
-        {
-          "title": "从调停人到“替罪羊”？特朗普为何突然盯上阿曼",
-          "url": "https://flash.jin10.com/detail/20260818140440429800",
+          "title": "据Axios：OpenAI将在Hugging Face事件后正在重写其主要安全文件。",
+          "url": "https://flash.jin10.com/detail/20260819020813455800",
           "source": "金十数据",
           "ranks": [
             22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时45分"
-        },
-        {
-          "title": "伊朗战事拖累选情，特朗普被曝拨款支持共和党候选人",
-          "url": "https://wallstreetcn.com/livenews/3150585",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "土耳其总统埃尔多安与美国总统特朗普通电话。（土耳其媒体Anadolu）",
-          "url": "https://wallstreetcn.com/livenews/3150700",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        },
-        {
-          "title": "土耳其总统埃尔多安与美国总统特朗普讨论了双边关系、伊朗和加沙的战争，以及与巴基斯坦和沙特阿拉伯的防务协议。",
-          "url": "https://flash.jin10.com/detail/20260818053641857800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        },
-        {
-          "title": "特朗普称金正恩已回应其“对话”请求",
-          "url": "https://wallstreetcn.com/livenews/3150699",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        },
-        {
-          "title": "土耳其总统埃尔多安与美国总统特朗普通电话。双方讨论了土耳其与美国的双边关系以及地区和全球局势。",
-          "url": "https://flash.jin10.com/detail/20260818053526620800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        },
-        {
-          "title": "美国法官阻止特朗普政府将联邦调查局（FBI）新总部选址从马里兰州迁至华盛顿特区的计划。",
-          "url": "https://wallstreetcn.com/livenews/3150697",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        },
-        {
-          "title": "美国法官阻止了特朗普政府将新的美国联邦调查局总部从马里兰州迁至华盛顿特区的计划。",
-          "url": "https://flash.jin10.com/detail/20260818052628706800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        },
-        {
-          "title": "特朗普：伊朗“不会达成我认为必要的那种协议”",
-          "url": "https://wallstreetcn.com/livenews/3150694",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时24分"
+          "time_info": "02时55分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "全球股债齐挫！美股低开、存储芯片股普跌，30年期美债收益率创07年以来新高，油价上行、金银走弱",
+          "url": "https://wallstreetcn.com/articles/3779677",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时54分 ~ 02时55分]"
+        },
         {
           "title": "中东风险推高油价，美股美债齐跌，存储芯片、光通信逆势大涨，黄金涨回4400",
           "url": "https://wallstreetcn.com/articles/3779603",
           "source": "华尔街见闻",
           "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时24分 ~ 14时45分]"
-        },
-        {
-          "title": "【早报】美股AI板块逆势走强；原油、黄金双双上行；一线城市二手房价格连续5个月上涨",
-          "url": "https://www.cls.cn/detail/2456585",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时38分 ~ 14时45分]"
-        },
-        {
-          "title": "美股收盘：美债抛售拖累大盘 三大利好推动AI板块逆势走强",
-          "url": "https://www.cls.cn/detail/2456558",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时24分 ~ 14时45分]"
-        },
-        {
-          "title": "美股期指涨跌不一 芯片股盘前走高 国际油价上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2456385",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 09时39分]"
-        },
-        {
-          "title": "美联储加息预期降温，AI情绪回暖，美股指涨跌互现，存储芯片股普涨，金油齐涨",
-          "url": "https://wallstreetcn.com/articles/3779603",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "美股期货走低，纳斯达克100指数期货跌超1%，标普500指数期货跌0.5%，道指期货跌0.2%。",
-          "url": "https://wallstreetcn.com/livenews/3150885",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Qwen",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何评价阿里开源的 Qwen3.8-27B？",
-          "url": "https://www.zhihu.com/question/2071739761476293183",
-          "source": "知乎",
-          "ranks": [
-            2
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时38分 ~ 09时39分]"
+          "time_info": "[02时54分 ~ 02时55分]"
         },
         {
-          "title": "如何评价刚刚开源的 Qwen3.8-27B？",
-          "url": "https://www.zhihu.com/question/2071739761476293183",
-          "source": "知乎",
+          "title": "油价与通胀担忧推升美债收益率 美股三大期指集体走低 芯片股回调 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2457477",
+          "source": "财联社热门",
           "ranks": [
-            1
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 2,
+          "time_info": "[02时54分 ~ 02时55分]"
+        },
         {
-          "title": "DeepSeek Harness 一下子涌现出那么多插件，有没有大佬给一下推荐？",
-          "url": "https://www.zhihu.com/question/2072103596481683649",
-          "source": "知乎",
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=17&Refer=top",
+          "source": "微博",
           "ranks": [
-            17,
-            8,
-            13
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 09时39分]"
+          "appearance_count": 2,
+          "time_info": "[02时54分 ~ 02时55分]"
+        },
+        {
+          "title": "周二（8月18日）欧市尾盘，英国10年期国债收益率涨1.5个基点，报5.075%，日内大部分时间高位震荡，美股开盘以来呈现出V形走势。 两年期英债收益率涨0.7个基点，报4.374%。 30年期英债收益率涨1.7个基点，50年期英债收益率涨0.9个基点。 2/10年期英债收益率利差涨0.893个基点，报+70.105个基点。",
+          "url": "https://wallstreetcn.com/livenews/3151240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时55分"
         }
       ]
     }
